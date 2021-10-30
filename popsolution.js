@@ -15,7 +15,7 @@ compliments[2]="Awesome!"
 compliments[3]="Right on."
 compliments[4]="Great Scott! You got it right!"
 compliments[5]="Great Job!"
-compliments[6]="Good work!"
+compliments[6]="Super!"
 
 
 /*Below lists the questions, its choices, and finally, the solution to each question. Folow the exact format below when editing the questions. You may have as many questions as needed. Check doc at http://javascriptkit.com/script/script2/comboquiz.htm for more info
@@ -54,7 +54,7 @@ choice5[4]="Ralph"
 question[6]="What is the device that makes time travel possible?"
 choice6[1]="Flexometer"
 choice6[2]="Flying Capacitor"
-choice6[3]="Flex Capacitor"
+choice6[3]="Flux Capacitor"
 choice6[4]="Flexitor"
 
 question[7]="What song does Marty perform at his parent's school dance?"
