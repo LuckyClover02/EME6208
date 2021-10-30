@@ -15,7 +15,6 @@ compliments[2]="Awesome!"
 compliments[3]="Right on."
 compliments[4]="Great Scott! You got it right!"
 compliments[5]="Great Job!"
-compliments[6]="Super!"
 
 
 /*Below lists the questions, its choices, and finally, the solution to each question. Folow the exact format below when editing the questions. You may have as many questions as needed. Check doc at http://javascriptkit.com/script/script2/comboquiz.htm for more info
